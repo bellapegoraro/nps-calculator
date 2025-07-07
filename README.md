@@ -3,7 +3,6 @@
 
 Desafio Técnico - Squad Nexus
 
-
 ## Stack utilizada
 
 **Front-end:** Next JS, Jest
@@ -36,3 +35,10 @@ Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de
 
 - Retorna o valor com 2 casas decimais.
 
+## Rodar o projeto
+
+Para fazer rodar o projeto, estar na pasta front e back (para rodar o next e o nest) 
+
+```bash
+  docker compose up --build
+```
